@@ -1,7 +1,7 @@
-# Robot Finds Kitten
-Simon Carless once described robotfindskitten as "less a game and more a way of 
-life ... It's fun to wander around until you find a kitten, at which point you feel 
-happy and can start again". I don't think I could have said it better myself!
+# Snake
+This is the classic snake game, aka the best game on the Nokia 3310 which was a phone released in September of 2000. 
+You control the snake, and as you collect the "food" that is on the screen, the length of the snake is increased. 
+If you hit the edges, or run into yourself, the game is over.
 
 ---
 ## Getting Started
@@ -33,5 +33,7 @@ root                    (project root folder)
 * raylib-cs 3.7.0.1
 
 ## Authors
-* Matt Manley (manleym@byui.edu)
-* Scott Burton (burtons@byui.edu)
+* Aaron Alexander (ale20011@byui.edu)
+
+
+Polymorphism is the concept of making a methods behavior change based on the class that it is referring to. This allows you to ensure that the value that is returned has been manipulated in a way that is concurrent with required operations for the specific class that the method is being used in conjunction with.
